@@ -136,292 +136,266 @@ Error generating stack: `+e.message+`
                     from-purple-600
                     to-indigo-600
                     `,children:`Contato`})})]})})})]})}var qu=`/natalia-pastre-frontend/assets/foto-perfil-BbjDtzjX.jpeg`;function Ju(){return(0,W.jsxs)(`section`,{id:`home`,className:`
-      relative
-      min-h-screen
-      overflow-hidden
-      bg-[#06030f]
-      text-white
-      pt-28
-      pb-24
-      `,children:[(0,W.jsx)(`div`,{className:`
-        absolute
-        inset-0
-        bg-[radial-gradient(circle_at_top_left,#9333ea40,transparent_35%),radial-gradient(circle_at_bottom_right,#6d28d940,transparent_40%)]
-        `}),(0,W.jsx)(`div`,{className:`
-        absolute
-        w-96
-        h-96
-        bg-purple-600/20
-        blur-[120px]
-        rounded-full
-        top-20
-        right-20
-        `}),(0,W.jsxs)(`div`,{className:`
         relative
-        max-w-7xl
-        mx-auto
-        px-6
-        grid
-        lg:grid-cols-2
-        gap-16
-        items-center
-        `,children:[(0,W.jsxs)(Z.div,{initial:{opacity:0,x:-50},animate:{opacity:1,x:0},transition:{duration:.8},children:[(0,W.jsx)(`p`,{className:`
-            uppercase
-            tracking-[5px]
-            text-sm
-            text-purple-400
-            font-semibold
-            mb-6
-            `,children:`Desenvolvedora Front-End`}),(0,W.jsxs)(`h1`,{className:`
-            text-5xl
-            md:text-7xl
-            font-black
-            leading-tight
-            `,children:[`Natália`,(0,W.jsx)(`span`,{className:`
-              block
-              bg-gradient-to-r
-              from-purple-400
-              via-violet-400
-              to-indigo-500
-              bg-clip-text
-              text-transparent
-              `,children:`Pastre`})]}),(0,W.jsx)(`h2`,{className:`
-            mt-5
-            text-2xl
-            md:text-3xl
-            font-bold
-            text-slate-200
-            `,children:`Desenvolvendo soluções digitais com tecnologia e visão de negócio`}),(0,W.jsx)(`p`,{className:`
-            mt-6
-            max-w-xl
-            text-lg
-            leading-8
-            text-slate-400
-            `,children:`Sou Desenvolvedora Front-End com uma trajetória de mais de 10 anos em ambientes corporativos, atuando em análise de dados, otimização de processos e automação. Essa bagagem fortaleceu minha visão analítica e capacidade estratégica de resolver problemas, habilidades que hoje aplico na criação de soluções digitais. Desenvolvo aplicações web modernas e intuitivas utilizando React, TypeScript, Vite e APIs REST no Front-End, além de Java e Python para suporte em lógica, dados e back-end — sempre unindo código limpo, boas práticas e foco no valor para o negócio.`}),(0,W.jsx)(`div`,{className:`
-            flex
-            flex-wrap
-            gap-3
-            mt-8
-            `,children:[`React`,`TypeScript`,`JavaScript`,`Vite`,`Tailwind CSS`,`Java`,`Spring Boot`,`Python`,`SQL`,`APIs REST`].map(e=>(0,W.jsxs)(`span`,{className:`
-                flex
-                items-center
-                gap-2
-                px-4
-                py-2
-                rounded-xl
-                bg-white/5
-                border
-                border-white/10
-                text-sm
-                text-slate-300
-                backdrop-blur
-                hover:border-purple-400/70
-                hover:text-white
-                transition
-                `,children:[(0,W.jsx)(le,{size:15,className:`text-purple-400`}),e]},e))}),(0,W.jsxs)(`div`,{className:`
-            flex
-            flex-col
-            sm:flex-row
-            gap-4
-            mt-10
-            `,children:[(0,W.jsxs)(`a`,{href:`#projects`,className:`
-              flex
-              justify-center
-              items-center
-              gap-2
-              px-8
-              py-4
-              rounded-xl
-              bg-gradient-to-r
-              from-purple-600
-              to-indigo-600
-              font-bold
-              shadow-xl
-              shadow-purple-600/30
-              hover:scale-105
-              transition
-              `,children:[`Ver Projetos`,(0,W.jsx)(oe,{size:20})]}),(0,W.jsxs)(`a`,{href:`/curriculo-natalia-pastre.pdf`,download:`curriculo-natalia-pastre.pdf`,className:`
-              flex
-              justify-center
-              items-center
-              gap-2
-              px-8
-              py-4
-              rounded-xl
-              border
-              border-white/20
-              bg-white/5
-              backdrop-blur
-              font-bold
-              hover:bg-white/10
-              transition
-              `,children:[(0,W.jsx)(D,{size:20}),`Currículo PDF`]})]}),(0,W.jsx)(`div`,{className:`
-            grid
-            grid-cols-3
-            gap-4
-            mt-14
-            `,children:[{number:`10+`,text:`Anos experiência`},{number:`20+`,text:`Projetos`},{number:`2026`,text:`Conclusão ADS`}].map(e=>(0,W.jsxs)(`div`,{className:`
-                rounded-2xl
-                bg-white/5
-                border
-                border-white/10
-                p-5
-                text-center
-                backdrop-blur-xl
-                hover:border-purple-400/40
-                transition
-                `,children:[(0,W.jsx)(`h3`,{className:`
-                  text-3xl
-                  font-black
-                  text-purple-400
-                  `,children:e.number}),(0,W.jsx)(`p`,{className:`
-                  mt-2
-                  text-xs
-                  text-slate-400
-                  `,children:e.text})]},e.text))})]}),(0,W.jsxs)(Z.div,{initial:{opacity:0,x:50},animate:{opacity:1,x:0},transition:{duration:.8},className:`
-          flex
-          flex-col
-          items-center
-          gap-10
-          `,children:[(0,W.jsxs)(Z.div,{animate:{y:[0,-10,0]},transition:{duration:5,repeat:1/0},className:`relative`,children:[(0,W.jsx)(`div`,{className:`
-              absolute
-              inset-0
-              rounded-full
-              bg-purple-500/30
-              blur-3xl
-              `}),(0,W.jsx)(`div`,{className:`
-              relative
-              p-2
-              rounded-full
-              bg-gradient-to-r
-              from-purple-400
-              via-violet-500
-              to-indigo-600
-              `,children:(0,W.jsx)(`img`,{src:qu,alt:`Natália Baptista Pastre`,className:`
-                w-72
-                h-72
-                md:w-96
-                md:h-96
-                rounded-full
-                object-cover
-                border-[10px]
-                border-[#06030f]
-                `})})]}),(0,W.jsxs)(`div`,{className:`
-            w-full
-            max-w-md
-            rounded-3xl
-            bg-white/5
-            border
-            border-white/10
-            backdrop-blur-xl
-            p-8
-            shadow-2xl
-            hover:border-purple-400/30
-            transition
-            `,children:[(0,W.jsx)(`h3`,{className:`
-              text-2xl
-              font-bold
-              mb-6
-              `,children:`Transformando experiência em tecnologia`}),(0,W.jsxs)(`div`,{className:`space-y-6`,children:[(0,W.jsx)(Yu,{icon:(0,W.jsx)(ce,{}),title:`Experiência`,text:`10+ anos em processos corporativos, análise de dados, automação e melhoria contínua.`}),(0,W.jsx)(Yu,{icon:(0,W.jsx)(fe,{}),title:`Formação`,text:`Análise e Desenvolvimento de Sistemas (ADS) • conclusão em dezembro de 2026.`}),(0,W.jsx)(Yu,{icon:(0,W.jsx)(me,{}),title:`Atuação`,text:`Trabalho remoto para todo Brasil ou presencial em Araraquara-SP.`})]})]})]})]})]})}function Yu({icon:e,title:t,text:n}){return(0,W.jsxs)(`div`,{className:`
-      flex
-      gap-4
-      items-start
+        min-h-screen
+        overflow-hidden
+        bg-[#06030f]
+        text-white
+        pt-28
+        pb-24
       `,children:[(0,W.jsx)(`div`,{className:`
-        text-purple-400
-        mt-1
-        `,children:e}),(0,W.jsxs)(`div`,{children:[(0,W.jsx)(`p`,{className:`
-          font-semibold
-          text-white
-          `,children:t}),(0,W.jsx)(`p`,{className:`
-          text-sm
-          text-slate-400
-          leading-relaxed
-          `,children:n})]})]})}var Xu={color:void 0,size:void 0,className:void 0,style:void 0,attr:void 0},Zu=b.createContext&&b.createContext(Xu),Qu=[`attr`,`size`,`title`];function $u(e,t){if(e==null)return{};var n,r,i=ed(e,t);if(Object.getOwnPropertySymbols){var a=Object.getOwnPropertySymbols(e);for(r=0;r<a.length;r++)n=a[r],t.indexOf(n)===-1&&{}.propertyIsEnumerable.call(e,n)&&(i[n]=e[n])}return i}function ed(e,t){if(e==null)return{};var n={};for(var r in e)if({}.hasOwnProperty.call(e,r)){if(t.indexOf(r)!==-1)continue;n[r]=e[r]}return n}function td(){return td=Object.assign?Object.assign.bind():function(e){for(var t=1;t<arguments.length;t++){var n=arguments[t];for(var r in n)({}).hasOwnProperty.call(n,r)&&(e[r]=n[r])}return e},td.apply(null,arguments)}function nd(e,t){var n=Object.keys(e);if(Object.getOwnPropertySymbols){var r=Object.getOwnPropertySymbols(e);t&&(r=r.filter(function(t){return Object.getOwnPropertyDescriptor(e,t).enumerable})),n.push.apply(n,r)}return n}function rd(e){for(var t=1;t<arguments.length;t++){var n=arguments[t]==null?{}:arguments[t];t%2?nd(Object(n),!0).forEach(function(t){id(e,t,n[t])}):Object.getOwnPropertyDescriptors?Object.defineProperties(e,Object.getOwnPropertyDescriptors(n)):nd(Object(n)).forEach(function(t){Object.defineProperty(e,t,Object.getOwnPropertyDescriptor(n,t))})}return e}function id(e,t,n){return(t=ad(t))in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function ad(e){var t=od(e,`string`);return typeof t==`symbol`?t:t+``}function od(e,t){if(typeof e!=`object`||!e)return e;var n=e[Symbol.toPrimitive];if(n!==void 0){var r=n.call(e,t||`default`);if(typeof r!=`object`)return r;throw TypeError(`@@toPrimitive must return a primitive value.`)}return(t===`string`?String:Number)(e)}function sd(e){return e&&e.map((e,t)=>b.createElement(e.tag,rd({key:t},e.attr),sd(e.child)))}function cd(e){return t=>b.createElement(ld,td({attr:rd({},e.attr)},t),sd(e.child))}function ld(e){var t=t=>{var n=e.attr,r=e.size,i=e.title,a=$u(e,Qu),o=r||t.size||`1em`,s;return t.className&&(s=t.className),e.className&&(s=(s?s+` `:``)+e.className),b.createElement(`svg`,td({stroke:`currentColor`,fill:`currentColor`,strokeWidth:`0`},t.attr,n,a,{className:s,style:rd(rd({color:e.color||t.color},t.style),e.style),height:o,width:o,xmlns:`http://www.w3.org/2000/svg`}),i&&b.createElement(`title`,null,i),e.children)};return Zu===void 0?t(Xu):b.createElement(Zu.Consumer,null,e=>t(e))}function ud(e){return cd({tag:`svg`,attr:{viewBox:`0 0 512 512`},child:[{tag:`path`,attr:{d:`M418.2 177.2c-5.4-1.8-10.8-3.5-16.2-5.1.9-3.7 1.7-7.4 2.5-11.1 12.3-59.6 4.2-107.5-23.1-123.3-26.3-15.1-69.2.6-112.6 38.4-4.3 3.7-8.5 7.6-12.5 11.5-2.7-2.6-5.5-5.2-8.3-7.7-45.5-40.4-91.1-57.4-118.4-41.5-26.2 15.2-34 60.3-23 116.7 1.1 5.6 2.3 11.1 3.7 16.7-6.4 1.8-12.7 3.8-18.6 5.9C38.3 196.2 0 225.4 0 255.6c0 31.2 40.8 62.5 96.3 81.5 4.5 1.5 9 3 13.6 4.3-1.5 6-2.8 11.9-4 18-10.5 55.5-2.3 99.5 23.9 114.6 27 15.6 72.4-.4 116.6-39.1 3.5-3.1 7-6.3 10.5-9.7 4.4 4.3 9 8.4 13.6 12.4 42.8 36.8 85.1 51.7 111.2 36.6 27-15.6 35.8-62.9 24.4-120.5-.9-4.4-1.9-8.9-3-13.5 3.2-.9 6.3-1.9 9.4-2.9 57.7-19.1 99.5-50 99.5-81.7 0-30.3-39.4-59.7-93.8-78.4zM282.9 92.3c37.2-32.4 71.9-45.1 87.7-36 16.9 9.7 23.4 48.9 12.8 100.4-.7 3.4-1.4 6.7-2.3 10-22.2-5-44.7-8.6-67.3-10.6-13-18.6-27.2-36.4-42.6-53.1 3.9-3.7 7.7-7.2 11.7-10.7zM167.2 307.5c5.1 8.7 10.3 17.4 15.8 25.9-15.6-1.7-31.1-4.2-46.4-7.5 4.4-14.4 9.9-29.3 16.3-44.5 4.6 8.8 9.3 17.5 14.3 26.1zm-30.3-120.3c14.4-3.2 29.7-5.8 45.6-7.8-5.3 8.3-10.5 16.8-15.4 25.4-4.9 8.5-9.7 17.2-14.2 26-6.3-14.9-11.6-29.5-16-43.6zm27.4 68.9c6.6-13.8 13.8-27.3 21.4-40.6s15.8-26.2 24.4-38.9c15-1.1 30.3-1.7 45.9-1.7s31 .6 45.9 1.7c8.5 12.6 16.6 25.5 24.3 38.7s14.9 26.7 21.7 40.4c-6.7 13.8-13.9 27.4-21.6 40.8-7.6 13.3-15.7 26.2-24.2 39-14.9 1.1-30.4 1.6-46.1 1.6s-30.9-.5-45.6-1.4c-8.7-12.7-16.9-25.7-24.6-39s-14.8-26.8-21.5-40.6zm180.6 51.2c5.1-8.8 9.9-17.7 14.6-26.7 6.4 14.5 12 29.2 16.9 44.3-15.5 3.5-31.2 6.2-47 8 5.4-8.4 10.5-17 15.5-25.6zm14.4-76.5c-4.7-8.8-9.5-17.6-14.5-26.2-4.9-8.5-10-16.9-15.3-25.2 16.1 2 31.5 4.7 45.9 8-4.6 14.8-10 29.2-16.1 43.4zM256.2 118.3c10.5 11.4 20.4 23.4 29.6 35.8-19.8-.9-39.7-.9-59.5 0 9.8-12.9 19.9-24.9 29.9-35.8zM140.2 57c16.8-9.8 54.1 4.2 93.4 39 2.5 2.2 5 4.6 7.6 7-15.5 16.7-29.8 34.5-42.9 53.1-22.6 2-45 5.5-67.2 10.4-1.3-5.1-2.4-10.3-3.5-15.5-9.4-48.4-3.2-84.9 12.6-94zm-24.5 263.6c-4.2-1.2-8.3-2.5-12.4-3.9-21.3-6.7-45.5-17.3-63-31.2-10.1-7-16.9-17.8-18.8-29.9 0-18.3 31.6-41.7 77.2-57.6 5.7-2 11.5-3.8 17.3-5.5 6.8 21.7 15 43 24.5 63.6-9.6 20.9-17.9 42.5-24.8 64.5zm116.6 98c-16.5 15.1-35.6 27.1-56.4 35.3-11.1 5.3-23.9 5.8-35.3 1.3-15.9-9.2-22.5-44.5-13.5-92 1.1-5.6 2.3-11.2 3.7-16.7 22.4 4.8 45 8.1 67.9 9.8 13.2 18.7 27.7 36.6 43.2 53.4-3.2 3.1-6.4 6.1-9.6 8.9zm24.5-24.3c-10.2-11-20.4-23.2-30.3-36.3 9.6.4 19.5.6 29.5.6 10.3 0 20.4-.2 30.4-.7-9.2 12.7-19.1 24.8-29.6 36.4zm130.7 30c-.9 12.2-6.9 23.6-16.5 31.3-15.9 9.2-49.8-2.8-86.4-34.2-4.2-3.6-8.4-7.5-12.7-11.5 15.3-16.9 29.4-34.8 42.2-53.6 22.9-1.9 45.7-5.4 68.2-10.5 1 4.1 1.9 8.2 2.7 12.2 4.9 21.6 5.7 44.1 2.5 66.3zm18.2-107.5c-2.8.9-5.6 1.8-8.5 2.6-7-21.8-15.6-43.1-25.5-63.8 9.6-20.4 17.7-41.4 24.5-62.9 5.2 1.5 10.2 3.1 15 4.7 46.6 16 79.3 39.8 79.3 58 0 19.6-34.9 44.9-84.8 61.4zm-149.7-15c25.3 0 45.8-20.5 45.8-45.8s-20.5-45.8-45.8-45.8c-25.3 0-45.8 20.5-45.8 45.8s20.5 45.8 45.8 45.8z`},child:[]}]})(e)}function dd(e){return cd({tag:`svg`,attr:{viewBox:`0 0 448 512`},child:[{tag:`path`,attr:{d:`M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z`},child:[]}]})(e)}function fd(e){return cd({tag:`svg`,attr:{viewBox:`0 0 448 512`},child:[{tag:`path`,attr:{d:`M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z`},child:[]}]})(e)}function pd(e){return cd({tag:`svg`,attr:{viewBox:`0 0 448 512`},child:[{tag:`path`,attr:{d:`M0 32v448h448V32H0zm243.8 349.4c0 43.6-25.6 63.5-62.9 63.5-33.7 0-53.2-17.4-63.2-38.5l34.3-20.7c6.6 11.7 12.6 21.6 27.1 21.6 13.8 0 22.6-5.4 22.6-26.5V237.7h42.1v143.7zm99.6 63.5c-39.1 0-64.4-18.6-76.7-43l34.3-19.8c9 14.7 20.8 25.6 41.5 25.6 17.4 0 28.6-8.7 28.6-20.8 0-14.4-11.4-19.5-30.7-28l-10.5-4.5c-30.4-12.9-50.5-29.2-50.5-63.5 0-31.6 24.1-55.6 61.6-55.6 26.8 0 46 9.3 59.8 33.7L368 290c-7.2-12.9-15-18-27.1-18-12.3 0-20.1 7.8-20.1 18 0 12.6 7.8 17.7 25.9 25.6l10.5 4.5c35.8 15.3 55.9 31 55.9 66.2 0 37.8-29.8 58.6-69.7 58.6z`},child:[]}]})(e)}function md(e){return cd({tag:`svg`,attr:{viewBox:`0 0 384 512`},child:[{tag:`path`,attr:{d:`M277.74 312.9c9.8-6.7 23.4-12.5 23.4-12.5s-38.7 7-77.2 10.2c-47.1 3.9-97.7 4.7-123.1 1.3-60.1-8 33-30.1 33-30.1s-36.1-2.4-80.6 19c-52.5 25.4 130 37 224.5 12.1zm-85.4-32.1c-19-42.7-83.1-80.2 0-145.8C296 53.2 242.84 0 242.84 0c21.5 84.5-75.6 110.1-110.7 162.6-23.9 35.9 11.7 74.4 60.2 118.2zm114.6-176.2c.1 0-175.2 43.8-91.5 140.2 24.7 28.4-6.5 54-6.5 54s62.7-32.4 33.9-72.9c-26.9-37.8-47.5-56.6 64.1-121.3zm-6.1 270.5a12.19 12.19 0 0 1-2 2.6c128.3-33.7 81.1-118.9 19.8-97.3a17.33 17.33 0 0 0-8.2 6.3 70.45 70.45 0 0 1 11-3c31-6.5 75.5 41.5-20.6 91.4zM348 437.4s14.5 11.9-15.9 21.2c-57.9 17.5-240.8 22.8-291.6.7-18.3-7.9 16-19 26.8-21.3 11.2-2.4 17.7-2 17.7-2-20.3-14.3-131.3 28.1-56.4 40.2C232.84 509.4 401 461.3 348 437.4zM124.44 396c-78.7 22 47.9 67.4 148.1 24.5a185.89 185.89 0 0 1-28.2-13.8c-44.7 8.5-65.4 9.1-106 4.5-33.5-3.8-13.9-15.2-13.9-15.2zm179.8 97.2c-78.7 14.8-175.8 13.1-233.3 3.6 0-.1 11.8 9.7 72.4 13.6 92.2 5.9 233.8-3.3 237.1-46.9 0 0-6.4 16.5-76.2 29.7zM260.64 353c-59.2 11.4-93.5 11.1-136.8 6.6-33.5-3.5-11.6-19.7-11.6-19.7-86.8 28.8 48.2 61.4 169.5 25.9a60.37 60.37 0 0 1-21.1-12.8z`},child:[]}]})(e)}function hd(e){return cd({tag:`svg`,attr:{viewBox:`0 0 384 512`},child:[{tag:`path`,attr:{d:`M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z`},child:[]}]})(e)}function gd(e){return cd({tag:`svg`,attr:{viewBox:`0 0 496 512`},child:[{tag:`path`,attr:{d:`M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z`},child:[]}]})(e)}function _d(e){return cd({tag:`svg`,attr:{viewBox:`0 0 448 512`},child:[{tag:`path`,attr:{d:`M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z`},child:[]}]})(e)}function vd(e){return cd({tag:`svg`,attr:{viewBox:`0 0 384 512`},child:[{tag:`path`,attr:{d:`M0 32l34.9 395.8L192 480l157.1-52.2L384 32H0zm313.1 80l-4.8 47.3L193 208.6l-.3.1h111.5l-12.8 146.6-98.2 28.7-98.8-29.2-6.4-73.9h48.9l3.2 38.3 52.6 13.3 54.7-15.4 3.7-61.6-166.3-.5v-.1l-.2.1-3.6-46.3L193.1 162l6.5-2.7H76.7L70.9 112h242.2z`},child:[]}]})(e)}function yd(e){return cd({tag:`svg`,attr:{role:`img`,viewBox:`0 0 24 24`},child:[{tag:`path`,attr:{d:`M1.125 0C.502 0 0 .502 0 1.125v21.75C0 23.498.502 24 1.125 24h21.75c.623 0 1.125-.502 1.125-1.125V1.125C24 .502 23.498 0 22.875 0zm17.363 9.75c.612 0 1.154.037 1.627.111a6.38 6.38 0 0 1 1.306.34v2.458a3.95 3.95 0 0 0-.643-.361 5.093 5.093 0 0 0-.717-.26 5.453 5.453 0 0 0-1.426-.2c-.3 0-.573.028-.819.086a2.1 2.1 0 0 0-.623.242c-.17.104-.3.229-.393.374a.888.888 0 0 0-.14.49c0 .196.053.373.156.529.104.156.252.304.443.444s.423.276.696.41c.273.135.582.274.926.416.47.197.892.407 1.266.628.374.222.695.473.963.753.268.279.472.598.614.957.142.359.214.776.214 1.253 0 .657-.125 1.21-.373 1.656a3.033 3.033 0 0 1-1.012 1.085 4.38 4.38 0 0 1-1.487.596c-.566.12-1.163.18-1.79.18a9.916 9.916 0 0 1-1.84-.164 5.544 5.544 0 0 1-1.512-.493v-2.63a5.033 5.033 0 0 0 3.237 1.2c.333 0 .624-.03.872-.09.249-.06.456-.144.623-.25.166-.108.29-.234.373-.38a1.023 1.023 0 0 0-.074-1.089 2.12 2.12 0 0 0-.537-.5 5.597 5.597 0 0 0-.807-.444 27.72 27.72 0 0 0-1.007-.436c-.918-.383-1.602-.852-2.053-1.405-.45-.553-.676-1.222-.676-2.005 0-.614.123-1.141.369-1.582.246-.441.58-.804 1.004-1.089a4.494 4.494 0 0 1 1.47-.629 7.536 7.536 0 0 1 1.77-.201zm-15.113.188h9.563v2.166H9.506v9.646H6.789v-9.646H3.375z`},child:[]}]})(e)}function Q(e){return cd({tag:`svg`,attr:{role:`img`,viewBox:`0 0 24 24`},child:[{tag:`path`,attr:{d:`M12.001,4.8c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 C13.666,10.618,15.027,12,18.001,12c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C16.337,6.182,14.976,4.8,12.001,4.8z M6.001,12c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 c1.177,1.194,2.538,2.576,5.512,2.576c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C10.337,13.382,8.976,12,6.001,12z`},child:[]}]})(e)}function bd(e){return cd({tag:`svg`,attr:{role:`img`,viewBox:`0 0 24 24`},child:[{tag:`path`,attr:{d:`m23.693 10.7058-4.73-8.1844c-.4094-.7106-1.4166-1.2942-2.2402-1.2942H7.2725c-.819 0-1.8308.5836-2.2402 1.2942L.307 10.7058c-.4095.7106-.4095 1.873 0 2.5837l4.7252 8.189c.4094.7107 1.4166 1.2943 2.2402 1.2943h9.455c.819 0 1.826-.5836 2.2402-1.2942l4.7252-8.189c.4095-.7107.4095-1.8732 0-2.5838zM10.9763 5.7547c0-.5365.4377-.9742.9742-.9742s.9742.4377.9742.9742v5.8217c0 .5366-.4377.9742-.9742.9742s-.9742-.4376-.9742-.9742zm.9742 12.4294c-3.6427 0-6.6077-2.965-6.6077-6.6077.0047-2.0896.993-4.0521 2.6685-5.304a.8657.8657 0 0 1 1.2142.1788.8657.8657 0 0 1-.1788 1.2143c-2.1602 1.6048-2.612 4.6592-1.0072 6.8194 1.6049 2.1603 4.6593 2.612 6.8195 1.0072 1.2378-.9177 1.9673-2.372 1.9673-3.9157a4.8972 4.8972 0 0 0-1.9861-3.925c-.386-.2824-.466-.8284-.1836-1.2143.2824-.386.8283-.466 1.2143-.1835 1.6895 1.2471 2.6826 3.2238 2.6873 5.3228 0 3.6474-2.965 6.6077-6.6077 6.6077z`},child:[]}]})(e)}function xd(e){return cd({tag:`svg`,attr:{role:`img`,viewBox:`0 0 24 24`},child:[{tag:`path`,attr:{d:`M16.405 5.501c-.115 0-.193.014-.274.033v.013h.014c.054.104.146.18.214.273.054.107.1.214.154.32l.014-.015c.094-.066.14-.172.14-.333-.04-.047-.046-.094-.08-.14-.04-.067-.126-.1-.18-.153zM5.77 18.695h-.927a50.854 50.854 0 00-.27-4.41h-.008l-1.41 4.41H2.45l-1.4-4.41h-.01a72.892 72.892 0 00-.195 4.41H0c.055-1.966.192-3.81.41-5.53h1.15l1.335 4.064h.008l1.347-4.064h1.095c.242 2.015.384 3.86.428 5.53zm4.017-4.08c-.378 2.045-.876 3.533-1.492 4.46-.482.716-1.01 1.073-1.583 1.073-.153 0-.34-.046-.566-.138v-.494c.11.017.24.026.386.026.268 0 .483-.075.647-.222.197-.18.295-.382.295-.605 0-.155-.077-.47-.23-.944L6.23 14.615h.91l.727 2.36c.164.536.233.91.205 1.123.4-1.064.678-2.227.835-3.483zm12.325 4.08h-2.63v-5.53h.885v4.85h1.745zm-3.32.135l-1.016-.5c.09-.076.177-.158.255-.25.433-.506.648-1.258.648-2.253 0-1.83-.718-2.746-2.155-2.746-.704 0-1.254.232-1.65.697-.43.508-.646 1.256-.646 2.245 0 .972.19 1.686.574 2.14.35.41.877.615 1.583.615.264 0 .506-.033.725-.098l1.325.772.36-.622zM15.5 17.588c-.225-.36-.337-.94-.337-1.736 0-1.393.424-2.09 1.27-2.09.443 0 .77.167.977.5.224.362.336.936.336 1.723 0 1.404-.424 2.108-1.27 2.108-.445 0-.77-.167-.978-.5zm-1.658-.425c0 .47-.172.856-.516 1.156-.344.3-.803.45-1.384.45-.543 0-1.064-.172-1.573-.515l.237-.476c.438.22.833.328 1.19.328.332 0 .593-.073.783-.22a.754.754 0 00.3-.615c0-.33-.23-.61-.648-.845-.388-.213-1.163-.657-1.163-.657-.422-.307-.632-.636-.632-1.177 0-.45.157-.81.47-1.085.315-.278.72-.415 1.22-.415.512 0 .98.136 1.4.41l-.213.476a2.726 2.726 0 00-1.064-.23c-.283 0-.502.068-.654.206a.685.685 0 00-.248.524c0 .328.234.61.666.85.393.215 1.187.67 1.187.67.433.305.648.63.648 1.168zm9.382-5.852c-.535-.014-.95.04-1.297.188-.1.04-.26.04-.274.167.055.053.063.14.11.214.08.134.218.313.346.407.14.11.28.216.427.31.26.16.555.255.81.416.145.094.293.213.44.313.073.05.12.14.214.172v-.02c-.046-.06-.06-.147-.105-.214-.067-.067-.134-.127-.2-.193a3.223 3.223 0 00-.695-.675c-.214-.146-.682-.35-.77-.595l-.013-.014c.146-.013.32-.066.46-.106.227-.06.435-.047.67-.106.106-.027.213-.06.32-.094v-.06c-.12-.12-.21-.283-.334-.395a8.867 8.867 0 00-1.104-.823c-.21-.134-.476-.22-.697-.334-.08-.04-.214-.06-.26-.127-.12-.146-.19-.34-.275-.514a17.69 17.69 0 01-.547-1.163c-.12-.262-.193-.523-.34-.763-.69-1.137-1.437-1.826-2.586-2.5-.247-.14-.543-.2-.856-.274-.167-.008-.334-.02-.5-.027-.11-.047-.216-.174-.31-.235-.38-.24-1.364-.76-1.644-.072-.18.434.267.862.422 1.082.115.153.26.328.34.5.047.116.06.235.107.356.106.294.207.622.347.897.073.14.153.287.247.413.054.073.146.107.167.227-.094.136-.1.334-.154.5-.24.757-.146 1.693.194 2.25.107.166.362.534.703.393.3-.12.234-.5.32-.835.02-.08.007-.133.048-.187v.015c.094.188.188.367.274.555.206.328.566.668.867.895.16.12.287.328.487.402v-.02h-.015c-.043-.058-.1-.086-.154-.133a3.445 3.445 0 01-.35-.4 8.76 8.76 0 01-.747-1.218c-.11-.21-.202-.436-.29-.643-.04-.08-.04-.2-.107-.24-.1.146-.247.273-.32.453-.127.288-.14.642-.188 1.01-.027.007-.014 0-.027.014-.214-.052-.287-.274-.367-.46-.2-.475-.233-1.238-.06-1.785.047-.14.247-.582.167-.716-.042-.127-.174-.2-.247-.303a2.478 2.478 0 01-.24-.427c-.16-.374-.24-.788-.414-1.162-.08-.173-.22-.354-.334-.513-.127-.18-.267-.307-.368-.52-.033-.073-.08-.194-.027-.274.014-.054.042-.075.094-.09.088-.072.335.022.422.062.247.1.455.194.662.334.094.066.195.193.315.226h.14c.214.047.455.014.655.073.355.114.675.28.962.46a5.953 5.953 0 012.085 2.286c.08.154.115.295.188.455.14.33.313.663.455.982.14.315.275.636.476.897.1.14.502.213.682.286.133.06.34.115.46.188.23.14.454.3.67.454.11.076.443.243.463.378z`},child:[]}]})(e)}function Sd(){let e=[{name:`React`,icon:(0,W.jsx)(ud,{})},{name:`JavaScript`,icon:(0,W.jsx)(pd,{})},{name:`TypeScript`,icon:(0,W.jsx)(yd,{})},{name:`HTML5`,icon:(0,W.jsx)(hd,{})},{name:`CSS3`,icon:(0,W.jsx)(vd,{})},{name:`Tailwind CSS`,icon:(0,W.jsx)(Q,{})},{name:`Java`,icon:(0,W.jsx)(md,{})},{name:`Spring Boot`,icon:(0,W.jsx)(bd,{})},{name:`Python`,icon:(0,W.jsx)(dd,{})},{name:`SQL`,icon:(0,W.jsx)(xd,{})},{name:`Git`,icon:(0,W.jsx)(_d,{})}];return(0,W.jsxs)(`section`,{id:`about`,className:`
-      relative
-      overflow-hidden
-      min-h-screen
-      bg-[#080A12]
-      text-white
-      py-24
-      px-6
-      `,children:[(0,W.jsx)(`div`,{className:`
-        absolute
-        top-20
-        left-0
-        w-80
-        h-80
-        bg-purple-600/20
-        blur-[130px]
-        rounded-full
+          absolute
+          inset-0
+          bg-[radial-gradient(circle_at_top_left,#9333ea40,transparent_35%),radial-gradient(circle_at_bottom_right,#6d28d940,transparent_40%)]
         `}),(0,W.jsx)(`div`,{className:`
-        absolute
-        bottom-20
-        right-0
-        w-96
-        h-96
-        bg-indigo-600/10
-        blur-[140px]
-        rounded-full
+          absolute
+          w-96
+          h-96
+          bg-purple-600/20
+          blur-[120px]
+          rounded-full
+          top-20
+          right-20
         `}),(0,W.jsxs)(`div`,{className:`
-        relative
-        max-w-7xl
-        mx-auto
-        `,children:[(0,W.jsxs)(Z.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.6},viewport:{once:!0},className:`
-          text-center
-          mb-16
-          `,children:[(0,W.jsxs)(`h2`,{className:`
-            text-4xl
-            md:text-5xl
-            font-black
-            `,children:[`Sobre`,` `,(0,W.jsx)(`span`,{className:`
-              text-transparent
-              bg-gradient-to-r
-              from-purple-400
-              to-indigo-500
-              bg-clip-text
-              `,children:`Mim`})]}),(0,W.jsx)(`p`,{className:`
-            mt-5
-            max-w-2xl
-            mx-auto
-            text-slate-400
-            text-lg
-            `,children:`Conheça minha trajetória, evolução profissional e a conexão entre experiência de negócio e desenvolvimento de software.`})]}),(0,W.jsxs)(`div`,{className:`
+          relative
+          max-w-7xl
+          mx-auto
+          px-6
           grid
           lg:grid-cols-2
-          gap-14
-          `,children:[(0,W.jsx)(Z.div,{initial:{opacity:0,x:-40},whileInView:{opacity:1,x:0},transition:{duration:.7},viewport:{once:!0},children:(0,W.jsxs)(`div`,{className:`
+          gap-16
+          items-center
+        `,children:[(0,W.jsxs)(Z.div,{initial:{opacity:0,x:-50},animate:{opacity:1,x:0},transition:{duration:.8},children:[(0,W.jsx)(`p`,{className:`
+              uppercase
+              tracking-[5px]
+              text-sm
+              text-purple-400
+              font-semibold
+              mb-6
+            `,children:`Desenvolvedora Front-End`}),(0,W.jsxs)(`h1`,{className:`
+              text-5xl
+              md:text-7xl
+              font-black
+              leading-tight
+            `,children:[`Natália`,(0,W.jsx)(`span`,{className:`
+                block
+                bg-gradient-to-r
+                from-purple-400
+                via-violet-400
+                to-indigo-500
+                bg-clip-text
+                text-transparent
+              `,children:`Pastre`})]}),(0,W.jsxs)(`h2`,{className:`
+              mt-5
+              text-2xl
+              md:text-3xl
+              font-bold
+              text-slate-200
+            `,children:[`Desenvolvendo soluções digitais`,(0,W.jsx)(`br`,{}),`com tecnologia e visão de negócio`]}),(0,W.jsx)(`p`,{className:`
+              mt-6
+              max-w-xl
+              text-lg
+              leading-8
+              text-slate-400
+            `,children:`Sou Desenvolvedora Front-End com uma trajetória de mais de 10 anos em ambientes corporativos, atuando em análise de dados, otimização de processos e automação.`}),(0,W.jsx)(`p`,{className:`
+              mt-4
+              max-w-xl
+              text-lg
+              leading-8
+              text-slate-400
+            `,children:`Essa bagagem fortaleceu minha visão analítica e capacidade estratégica de resolver problemas, habilidades que hoje aplico na criação de soluções digitais. Desenvolvo aplicações web modernas e intuitivas utilizando React, TypeScript, Vite e APIs REST no Front-End, além de Java e Python para suporte em lógica, dados e back-end — sempre unindo código limpo, boas práticas e foco no valor para o negócio.`}),(0,W.jsx)(`div`,{className:`
+              flex
+              flex-wrap
+              gap-3
+              mt-8
+            `,children:[`React`,`TypeScript`,`JavaScript`,`Vite`,`Tailwind CSS`,`Java`,`Spring Boot`,`Python`,`SQL`,`APIs REST`].map(e=>(0,W.jsxs)(`span`,{className:`
+                  flex
+                  items-center
+                  gap-2
+                  px-4
+                  py-2
+                  rounded-xl
+                  bg-white/5
+                  border
+                  border-white/10
+                  text-sm
+                  text-slate-300
+                  backdrop-blur
+                  hover:border-purple-400/70
+                  hover:text-white
+                  transition
+                `,children:[(0,W.jsx)(le,{size:15,className:`text-purple-400`}),e]},e))}),(0,W.jsxs)(`div`,{className:`
+              flex
+              flex-col
+              sm:flex-row
+              gap-4
+              mt-10
+            `,children:[(0,W.jsxs)(`a`,{href:`#projects`,className:`
+                flex
+                justify-center
+                items-center
+                gap-2
+                px-8
+                py-4
+                rounded-xl
+                bg-gradient-to-r
+                from-purple-600
+                to-indigo-600
+                font-bold
+                shadow-xl
+                shadow-purple-600/30
+                hover:scale-105
+                transition
+              `,children:[`Ver Projetos`,(0,W.jsx)(oe,{size:20})]}),(0,W.jsxs)(`a`,{href:`/natalia-pastre-frontend/curriculo-natalia-pastre.pdf`,target:`_blank`,rel:`noopener noreferrer`,className:`
+                flex
+                justify-center
+                items-center
+                gap-2
+                px-8
+                py-4
+                rounded-xl
+                border
+                border-white/20
+                bg-white/5
+                backdrop-blur
+                font-bold
+                hover:bg-white/10
+                transition
+              `,children:[(0,W.jsx)(D,{size:20}),`Currículo PDF`]})]}),(0,W.jsx)(`div`,{className:`
+              grid
+              grid-cols-3
+              gap-4
+              mt-14
+            `,children:[{number:`10+`,text:`Anos experiência`},{number:`20+`,text:`Projetos`},{number:`2026`,text:`Conclusão ADS`}].map(e=>(0,W.jsxs)(`div`,{className:`
+                  rounded-2xl
+                  bg-white/5
+                  border
+                  border-white/10
+                  p-5
+                  text-center
+                  backdrop-blur-xl
+                  hover:border-purple-400/40
+                  transition
+                `,children:[(0,W.jsx)(`h3`,{className:`
+                    text-3xl
+                    font-black
+                    text-purple-400
+                  `,children:e.number}),(0,W.jsx)(`p`,{className:`
+                    mt-2
+                    text-xs
+                    text-slate-400
+                  `,children:e.text})]},e.text))})]}),(0,W.jsxs)(Z.div,{initial:{opacity:0,x:50},animate:{opacity:1,x:0},transition:{duration:.8},className:`
+            flex
+            flex-col
+            items-center
+            gap-10
+          `,children:[(0,W.jsxs)(Z.div,{animate:{y:[0,-10,0]},transition:{duration:5,repeat:1/0},className:`relative`,children:[(0,W.jsx)(`div`,{className:`
+                absolute
+                inset-0
+                rounded-full
+                bg-purple-500/30
+                blur-3xl
+              `}),(0,W.jsx)(`div`,{className:`
+                relative
+                p-2
+                rounded-full
+                bg-gradient-to-r
+                from-purple-400
+                via-violet-500
+                to-indigo-600
+              `,children:(0,W.jsx)(`img`,{src:qu,alt:`Natália Baptista Pastre`,className:`
+                  w-72
+                  h-72
+                  md:w-96
+                  md:h-96
+                  rounded-full
+                  object-cover
+                  border-[10px]
+                  border-[#06030f]
+                `})})]}),(0,W.jsxs)(`div`,{className:`
+              w-full
+              max-w-md
               rounded-3xl
               bg-white/5
               border
               border-white/10
               backdrop-blur-xl
               p-8
+              shadow-2xl
               hover:border-purple-400/30
               transition
-              `,children:[(0,W.jsx)(`h3`,{className:`
-                text-3xl
-                font-black
+            `,children:[(0,W.jsx)(`h3`,{className:`
+                text-2xl
+                font-bold
                 mb-6
-                `,children:`Da experiência de negócio ao desenvolvimento de software`}),(0,W.jsx)(`p`,{className:`
-                text-slate-400
-                leading-8
-                mb-5
-                `,children:`Sou Natália Baptista Pastre, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora Front-End focada na criação de aplicações modernas, responsivas e centradas na experiência do usuário.`}),(0,W.jsx)(`p`,{className:`
-                text-slate-400
-                leading-8
-                mb-5
-                `,children:`Minha trajetória de mais de 10 anos no ambiente corporativo desenvolveu uma visão analítica, organização de processos, facilidade para entender regras de negócio e transformar necessidades reais em soluções eficientes.`}),(0,W.jsxs)(`p`,{className:`
-                text-slate-400
-                leading-8
-                `,children:[`Atualmente aplico essa experiência no desenvolvimento de software, utilizando tecnologias como`,` `,(0,W.jsx)(`strong`,{className:`text-white`,children:`React, TypeScript, JavaScript e APIs REST`}),`, além de conhecimentos em`,` `,(0,W.jsx)(`strong`,{className:`text-white`,children:`Java, Python, SQL e Spring Boot`}),`para construir soluções completas.`]})]})}),(0,W.jsx)(Z.div,{initial:{opacity:0,x:40},whileInView:{opacity:1,x:0},transition:{duration:.7},viewport:{once:!0},children:(0,W.jsx)(`div`,{className:`
-              relative
-              border-l
-              border-purple-400/30
-              pl-8
-              space-y-8
-              `,children:[{year:`2024`,title:`Transição para Tecnologia`,description:`Iniciei minha jornada em Análise e Desenvolvimento de Sistemas, unindo minha experiência profissional com o desenvolvimento de software.`},{year:`2025`,title:`Construção de projetos e evolução técnica`,description:`Desenvolvimento de aplicações utilizando React, Java, Python, SQL e aprofundamento em boas práticas de programação.`},{year:`2026`,title:`Desenvolvimento de soluções completas`,description:`Criação de aplicações web, APIs, dashboards e sistemas integrados aplicando conhecimentos de Front-End e Back-End.`},{year:`2026`,title:`Conclusão da graduação ADS`,description:`Finalização do curso de Análise e Desenvolvimento de Sistemas consolidando minha formação em tecnologia.`}].map((e,t)=>(0,W.jsxs)(`div`,{className:`
-                    relative
-                    `,children:[(0,W.jsx)(`span`,{className:`
+              `,children:`Transformando experiência em tecnologia`}),(0,W.jsxs)(`div`,{className:`space-y-6`,children:[(0,W.jsx)(Yu,{icon:(0,W.jsx)(ce,{}),title:`Experiência`,text:`10+ anos em processos corporativos, análise de dados, automação e melhoria contínua.`}),(0,W.jsx)(Yu,{icon:(0,W.jsx)(fe,{}),title:`Formação`,text:`Análise e Desenvolvimento de Sistemas (ADS) • conclusão em dezembro de 2026.`}),(0,W.jsx)(Yu,{icon:(0,W.jsx)(me,{}),title:`Atuação`,text:`Trabalho remoto para todo Brasil ou presencial em Araraquara-SP.`})]})]})]})]})]})}function Yu({icon:e,title:t,text:n}){return(0,W.jsxs)(`div`,{className:`
+        flex
+        gap-4
+        items-start
+      `,children:[(0,W.jsx)(`div`,{className:`
+          text-purple-400
+          mt-1
+        `,children:e}),(0,W.jsxs)(`div`,{children:[(0,W.jsx)(`p`,{className:`
+            font-semibold
+            text-white
+          `,children:t}),(0,W.jsx)(`p`,{className:`
+            text-sm
+            text-slate-400
+            leading-relaxed
+          `,children:n})]})]})}var Xu={color:void 0,size:void 0,className:void 0,style:void 0,attr:void 0},Zu=b.createContext&&b.createContext(Xu),Qu=[`attr`,`size`,`title`];function $u(e,t){if(e==null)return{};var n,r,i=ed(e,t);if(Object.getOwnPropertySymbols){var a=Object.getOwnPropertySymbols(e);for(r=0;r<a.length;r++)n=a[r],t.indexOf(n)===-1&&{}.propertyIsEnumerable.call(e,n)&&(i[n]=e[n])}return i}function ed(e,t){if(e==null)return{};var n={};for(var r in e)if({}.hasOwnProperty.call(e,r)){if(t.indexOf(r)!==-1)continue;n[r]=e[r]}return n}function td(){return td=Object.assign?Object.assign.bind():function(e){for(var t=1;t<arguments.length;t++){var n=arguments[t];for(var r in n)({}).hasOwnProperty.call(n,r)&&(e[r]=n[r])}return e},td.apply(null,arguments)}function nd(e,t){var n=Object.keys(e);if(Object.getOwnPropertySymbols){var r=Object.getOwnPropertySymbols(e);t&&(r=r.filter(function(t){return Object.getOwnPropertyDescriptor(e,t).enumerable})),n.push.apply(n,r)}return n}function rd(e){for(var t=1;t<arguments.length;t++){var n=arguments[t]==null?{}:arguments[t];t%2?nd(Object(n),!0).forEach(function(t){id(e,t,n[t])}):Object.getOwnPropertyDescriptors?Object.defineProperties(e,Object.getOwnPropertyDescriptors(n)):nd(Object(n)).forEach(function(t){Object.defineProperty(e,t,Object.getOwnPropertyDescriptor(n,t))})}return e}function id(e,t,n){return(t=ad(t))in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function ad(e){var t=od(e,`string`);return typeof t==`symbol`?t:t+``}function od(e,t){if(typeof e!=`object`||!e)return e;var n=e[Symbol.toPrimitive];if(n!==void 0){var r=n.call(e,t||`default`);if(typeof r!=`object`)return r;throw TypeError(`@@toPrimitive must return a primitive value.`)}return(t===`string`?String:Number)(e)}function sd(e){return e&&e.map((e,t)=>b.createElement(e.tag,rd({key:t},e.attr),sd(e.child)))}function cd(e){return t=>b.createElement(ld,td({attr:rd({},e.attr)},t),sd(e.child))}function ld(e){var t=t=>{var n=e.attr,r=e.size,i=e.title,a=$u(e,Qu),o=r||t.size||`1em`,s;return t.className&&(s=t.className),e.className&&(s=(s?s+` `:``)+e.className),b.createElement(`svg`,td({stroke:`currentColor`,fill:`currentColor`,strokeWidth:`0`},t.attr,n,a,{className:s,style:rd(rd({color:e.color||t.color},t.style),e.style),height:o,width:o,xmlns:`http://www.w3.org/2000/svg`}),i&&b.createElement(`title`,null,i),e.children)};return Zu===void 0?t(Xu):b.createElement(Zu.Consumer,null,e=>t(e))}function ud(e){return cd({tag:`svg`,attr:{viewBox:`0 0 512 512`},child:[{tag:`path`,attr:{d:`M418.2 177.2c-5.4-1.8-10.8-3.5-16.2-5.1.9-3.7 1.7-7.4 2.5-11.1 12.3-59.6 4.2-107.5-23.1-123.3-26.3-15.1-69.2.6-112.6 38.4-4.3 3.7-8.5 7.6-12.5 11.5-2.7-2.6-5.5-5.2-8.3-7.7-45.5-40.4-91.1-57.4-118.4-41.5-26.2 15.2-34 60.3-23 116.7 1.1 5.6 2.3 11.1 3.7 16.7-6.4 1.8-12.7 3.8-18.6 5.9C38.3 196.2 0 225.4 0 255.6c0 31.2 40.8 62.5 96.3 81.5 4.5 1.5 9 3 13.6 4.3-1.5 6-2.8 11.9-4 18-10.5 55.5-2.3 99.5 23.9 114.6 27 15.6 72.4-.4 116.6-39.1 3.5-3.1 7-6.3 10.5-9.7 4.4 4.3 9 8.4 13.6 12.4 42.8 36.8 85.1 51.7 111.2 36.6 27-15.6 35.8-62.9 24.4-120.5-.9-4.4-1.9-8.9-3-13.5 3.2-.9 6.3-1.9 9.4-2.9 57.7-19.1 99.5-50 99.5-81.7 0-30.3-39.4-59.7-93.8-78.4zM282.9 92.3c37.2-32.4 71.9-45.1 87.7-36 16.9 9.7 23.4 48.9 12.8 100.4-.7 3.4-1.4 6.7-2.3 10-22.2-5-44.7-8.6-67.3-10.6-13-18.6-27.2-36.4-42.6-53.1 3.9-3.7 7.7-7.2 11.7-10.7zM167.2 307.5c5.1 8.7 10.3 17.4 15.8 25.9-15.6-1.7-31.1-4.2-46.4-7.5 4.4-14.4 9.9-29.3 16.3-44.5 4.6 8.8 9.3 17.5 14.3 26.1zm-30.3-120.3c14.4-3.2 29.7-5.8 45.6-7.8-5.3 8.3-10.5 16.8-15.4 25.4-4.9 8.5-9.7 17.2-14.2 26-6.3-14.9-11.6-29.5-16-43.6zm27.4 68.9c6.6-13.8 13.8-27.3 21.4-40.6s15.8-26.2 24.4-38.9c15-1.1 30.3-1.7 45.9-1.7s31 .6 45.9 1.7c8.5 12.6 16.6 25.5 24.3 38.7s14.9 26.7 21.7 40.4c-6.7 13.8-13.9 27.4-21.6 40.8-7.6 13.3-15.7 26.2-24.2 39-14.9 1.1-30.4 1.6-46.1 1.6s-30.9-.5-45.6-1.4c-8.7-12.7-16.9-25.7-24.6-39s-14.8-26.8-21.5-40.6zm180.6 51.2c5.1-8.8 9.9-17.7 14.6-26.7 6.4 14.5 12 29.2 16.9 44.3-15.5 3.5-31.2 6.2-47 8 5.4-8.4 10.5-17 15.5-25.6zm14.4-76.5c-4.7-8.8-9.5-17.6-14.5-26.2-4.9-8.5-10-16.9-15.3-25.2 16.1 2 31.5 4.7 45.9 8-4.6 14.8-10 29.2-16.1 43.4zM256.2 118.3c10.5 11.4 20.4 23.4 29.6 35.8-19.8-.9-39.7-.9-59.5 0 9.8-12.9 19.9-24.9 29.9-35.8zM140.2 57c16.8-9.8 54.1 4.2 93.4 39 2.5 2.2 5 4.6 7.6 7-15.5 16.7-29.8 34.5-42.9 53.1-22.6 2-45 5.5-67.2 10.4-1.3-5.1-2.4-10.3-3.5-15.5-9.4-48.4-3.2-84.9 12.6-94zm-24.5 263.6c-4.2-1.2-8.3-2.5-12.4-3.9-21.3-6.7-45.5-17.3-63-31.2-10.1-7-16.9-17.8-18.8-29.9 0-18.3 31.6-41.7 77.2-57.6 5.7-2 11.5-3.8 17.3-5.5 6.8 21.7 15 43 24.5 63.6-9.6 20.9-17.9 42.5-24.8 64.5zm116.6 98c-16.5 15.1-35.6 27.1-56.4 35.3-11.1 5.3-23.9 5.8-35.3 1.3-15.9-9.2-22.5-44.5-13.5-92 1.1-5.6 2.3-11.2 3.7-16.7 22.4 4.8 45 8.1 67.9 9.8 13.2 18.7 27.7 36.6 43.2 53.4-3.2 3.1-6.4 6.1-9.6 8.9zm24.5-24.3c-10.2-11-20.4-23.2-30.3-36.3 9.6.4 19.5.6 29.5.6 10.3 0 20.4-.2 30.4-.7-9.2 12.7-19.1 24.8-29.6 36.4zm130.7 30c-.9 12.2-6.9 23.6-16.5 31.3-15.9 9.2-49.8-2.8-86.4-34.2-4.2-3.6-8.4-7.5-12.7-11.5 15.3-16.9 29.4-34.8 42.2-53.6 22.9-1.9 45.7-5.4 68.2-10.5 1 4.1 1.9 8.2 2.7 12.2 4.9 21.6 5.7 44.1 2.5 66.3zm18.2-107.5c-2.8.9-5.6 1.8-8.5 2.6-7-21.8-15.6-43.1-25.5-63.8 9.6-20.4 17.7-41.4 24.5-62.9 5.2 1.5 10.2 3.1 15 4.7 46.6 16 79.3 39.8 79.3 58 0 19.6-34.9 44.9-84.8 61.4zm-149.7-15c25.3 0 45.8-20.5 45.8-45.8s-20.5-45.8-45.8-45.8c-25.3 0-45.8 20.5-45.8 45.8s20.5 45.8 45.8 45.8z`},child:[]}]})(e)}function dd(e){return cd({tag:`svg`,attr:{viewBox:`0 0 448 512`},child:[{tag:`path`,attr:{d:`M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z`},child:[]}]})(e)}function fd(e){return cd({tag:`svg`,attr:{viewBox:`0 0 448 512`},child:[{tag:`path`,attr:{d:`M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z`},child:[]}]})(e)}function pd(e){return cd({tag:`svg`,attr:{viewBox:`0 0 448 512`},child:[{tag:`path`,attr:{d:`M0 32v448h448V32H0zm243.8 349.4c0 43.6-25.6 63.5-62.9 63.5-33.7 0-53.2-17.4-63.2-38.5l34.3-20.7c6.6 11.7 12.6 21.6 27.1 21.6 13.8 0 22.6-5.4 22.6-26.5V237.7h42.1v143.7zm99.6 63.5c-39.1 0-64.4-18.6-76.7-43l34.3-19.8c9 14.7 20.8 25.6 41.5 25.6 17.4 0 28.6-8.7 28.6-20.8 0-14.4-11.4-19.5-30.7-28l-10.5-4.5c-30.4-12.9-50.5-29.2-50.5-63.5 0-31.6 24.1-55.6 61.6-55.6 26.8 0 46 9.3 59.8 33.7L368 290c-7.2-12.9-15-18-27.1-18-12.3 0-20.1 7.8-20.1 18 0 12.6 7.8 17.7 25.9 25.6l10.5 4.5c35.8 15.3 55.9 31 55.9 66.2 0 37.8-29.8 58.6-69.7 58.6z`},child:[]}]})(e)}function md(e){return cd({tag:`svg`,attr:{viewBox:`0 0 384 512`},child:[{tag:`path`,attr:{d:`M277.74 312.9c9.8-6.7 23.4-12.5 23.4-12.5s-38.7 7-77.2 10.2c-47.1 3.9-97.7 4.7-123.1 1.3-60.1-8 33-30.1 33-30.1s-36.1-2.4-80.6 19c-52.5 25.4 130 37 224.5 12.1zm-85.4-32.1c-19-42.7-83.1-80.2 0-145.8C296 53.2 242.84 0 242.84 0c21.5 84.5-75.6 110.1-110.7 162.6-23.9 35.9 11.7 74.4 60.2 118.2zm114.6-176.2c.1 0-175.2 43.8-91.5 140.2 24.7 28.4-6.5 54-6.5 54s62.7-32.4 33.9-72.9c-26.9-37.8-47.5-56.6 64.1-121.3zm-6.1 270.5a12.19 12.19 0 0 1-2 2.6c128.3-33.7 81.1-118.9 19.8-97.3a17.33 17.33 0 0 0-8.2 6.3 70.45 70.45 0 0 1 11-3c31-6.5 75.5 41.5-20.6 91.4zM348 437.4s14.5 11.9-15.9 21.2c-57.9 17.5-240.8 22.8-291.6.7-18.3-7.9 16-19 26.8-21.3 11.2-2.4 17.7-2 17.7-2-20.3-14.3-131.3 28.1-56.4 40.2C232.84 509.4 401 461.3 348 437.4zM124.44 396c-78.7 22 47.9 67.4 148.1 24.5a185.89 185.89 0 0 1-28.2-13.8c-44.7 8.5-65.4 9.1-106 4.5-33.5-3.8-13.9-15.2-13.9-15.2zm179.8 97.2c-78.7 14.8-175.8 13.1-233.3 3.6 0-.1 11.8 9.7 72.4 13.6 92.2 5.9 233.8-3.3 237.1-46.9 0 0-6.4 16.5-76.2 29.7zM260.64 353c-59.2 11.4-93.5 11.1-136.8 6.6-33.5-3.5-11.6-19.7-11.6-19.7-86.8 28.8 48.2 61.4 169.5 25.9a60.37 60.37 0 0 1-21.1-12.8z`},child:[]}]})(e)}function hd(e){return cd({tag:`svg`,attr:{viewBox:`0 0 384 512`},child:[{tag:`path`,attr:{d:`M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z`},child:[]}]})(e)}function gd(e){return cd({tag:`svg`,attr:{viewBox:`0 0 496 512`},child:[{tag:`path`,attr:{d:`M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z`},child:[]}]})(e)}function _d(e){return cd({tag:`svg`,attr:{viewBox:`0 0 448 512`},child:[{tag:`path`,attr:{d:`M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z`},child:[]}]})(e)}function vd(e){return cd({tag:`svg`,attr:{viewBox:`0 0 384 512`},child:[{tag:`path`,attr:{d:`M0 32l34.9 395.8L192 480l157.1-52.2L384 32H0zm313.1 80l-4.8 47.3L193 208.6l-.3.1h111.5l-12.8 146.6-98.2 28.7-98.8-29.2-6.4-73.9h48.9l3.2 38.3 52.6 13.3 54.7-15.4 3.7-61.6-166.3-.5v-.1l-.2.1-3.6-46.3L193.1 162l6.5-2.7H76.7L70.9 112h242.2z`},child:[]}]})(e)}function yd(e){return cd({tag:`svg`,attr:{role:`img`,viewBox:`0 0 24 24`},child:[{tag:`path`,attr:{d:`M1.125 0C.502 0 0 .502 0 1.125v21.75C0 23.498.502 24 1.125 24h21.75c.623 0 1.125-.502 1.125-1.125V1.125C24 .502 23.498 0 22.875 0zm17.363 9.75c.612 0 1.154.037 1.627.111a6.38 6.38 0 0 1 1.306.34v2.458a3.95 3.95 0 0 0-.643-.361 5.093 5.093 0 0 0-.717-.26 5.453 5.453 0 0 0-1.426-.2c-.3 0-.573.028-.819.086a2.1 2.1 0 0 0-.623.242c-.17.104-.3.229-.393.374a.888.888 0 0 0-.14.49c0 .196.053.373.156.529.104.156.252.304.443.444s.423.276.696.41c.273.135.582.274.926.416.47.197.892.407 1.266.628.374.222.695.473.963.753.268.279.472.598.614.957.142.359.214.776.214 1.253 0 .657-.125 1.21-.373 1.656a3.033 3.033 0 0 1-1.012 1.085 4.38 4.38 0 0 1-1.487.596c-.566.12-1.163.18-1.79.18a9.916 9.916 0 0 1-1.84-.164 5.544 5.544 0 0 1-1.512-.493v-2.63a5.033 5.033 0 0 0 3.237 1.2c.333 0 .624-.03.872-.09.249-.06.456-.144.623-.25.166-.108.29-.234.373-.38a1.023 1.023 0 0 0-.074-1.089 2.12 2.12 0 0 0-.537-.5 5.597 5.597 0 0 0-.807-.444 27.72 27.72 0 0 0-1.007-.436c-.918-.383-1.602-.852-2.053-1.405-.45-.553-.676-1.222-.676-2.005 0-.614.123-1.141.369-1.582.246-.441.58-.804 1.004-1.089a4.494 4.494 0 0 1 1.47-.629 7.536 7.536 0 0 1 1.77-.201zm-15.113.188h9.563v2.166H9.506v9.646H6.789v-9.646H3.375z`},child:[]}]})(e)}function Q(e){return cd({tag:`svg`,attr:{role:`img`,viewBox:`0 0 24 24`},child:[{tag:`path`,attr:{d:`M12.001,4.8c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 C13.666,10.618,15.027,12,18.001,12c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C16.337,6.182,14.976,4.8,12.001,4.8z M6.001,12c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 c1.177,1.194,2.538,2.576,5.512,2.576c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C10.337,13.382,8.976,12,6.001,12z`},child:[]}]})(e)}function bd(e){return cd({tag:`svg`,attr:{role:`img`,viewBox:`0 0 24 24`},child:[{tag:`path`,attr:{d:`m23.693 10.7058-4.73-8.1844c-.4094-.7106-1.4166-1.2942-2.2402-1.2942H7.2725c-.819 0-1.8308.5836-2.2402 1.2942L.307 10.7058c-.4095.7106-.4095 1.873 0 2.5837l4.7252 8.189c.4094.7107 1.4166 1.2943 2.2402 1.2943h9.455c.819 0 1.826-.5836 2.2402-1.2942l4.7252-8.189c.4095-.7107.4095-1.8732 0-2.5838zM10.9763 5.7547c0-.5365.4377-.9742.9742-.9742s.9742.4377.9742.9742v5.8217c0 .5366-.4377.9742-.9742.9742s-.9742-.4376-.9742-.9742zm.9742 12.4294c-3.6427 0-6.6077-2.965-6.6077-6.6077.0047-2.0896.993-4.0521 2.6685-5.304a.8657.8657 0 0 1 1.2142.1788.8657.8657 0 0 1-.1788 1.2143c-2.1602 1.6048-2.612 4.6592-1.0072 6.8194 1.6049 2.1603 4.6593 2.612 6.8195 1.0072 1.2378-.9177 1.9673-2.372 1.9673-3.9157a4.8972 4.8972 0 0 0-1.9861-3.925c-.386-.2824-.466-.8284-.1836-1.2143.2824-.386.8283-.466 1.2143-.1835 1.6895 1.2471 2.6826 3.2238 2.6873 5.3228 0 3.6474-2.965 6.6077-6.6077 6.6077z`},child:[]}]})(e)}function xd(e){return cd({tag:`svg`,attr:{role:`img`,viewBox:`0 0 24 24`},child:[{tag:`path`,attr:{d:`M16.405 5.501c-.115 0-.193.014-.274.033v.013h.014c.054.104.146.18.214.273.054.107.1.214.154.32l.014-.015c.094-.066.14-.172.14-.333-.04-.047-.046-.094-.08-.14-.04-.067-.126-.1-.18-.153zM5.77 18.695h-.927a50.854 50.854 0 00-.27-4.41h-.008l-1.41 4.41H2.45l-1.4-4.41h-.01a72.892 72.892 0 00-.195 4.41H0c.055-1.966.192-3.81.41-5.53h1.15l1.335 4.064h.008l1.347-4.064h1.095c.242 2.015.384 3.86.428 5.53zm4.017-4.08c-.378 2.045-.876 3.533-1.492 4.46-.482.716-1.01 1.073-1.583 1.073-.153 0-.34-.046-.566-.138v-.494c.11.017.24.026.386.026.268 0 .483-.075.647-.222.197-.18.295-.382.295-.605 0-.155-.077-.47-.23-.944L6.23 14.615h.91l.727 2.36c.164.536.233.91.205 1.123.4-1.064.678-2.227.835-3.483zm12.325 4.08h-2.63v-5.53h.885v4.85h1.745zm-3.32.135l-1.016-.5c.09-.076.177-.158.255-.25.433-.506.648-1.258.648-2.253 0-1.83-.718-2.746-2.155-2.746-.704 0-1.254.232-1.65.697-.43.508-.646 1.256-.646 2.245 0 .972.19 1.686.574 2.14.35.41.877.615 1.583.615.264 0 .506-.033.725-.098l1.325.772.36-.622zM15.5 17.588c-.225-.36-.337-.94-.337-1.736 0-1.393.424-2.09 1.27-2.09.443 0 .77.167.977.5.224.362.336.936.336 1.723 0 1.404-.424 2.108-1.27 2.108-.445 0-.77-.167-.978-.5zm-1.658-.425c0 .47-.172.856-.516 1.156-.344.3-.803.45-1.384.45-.543 0-1.064-.172-1.573-.515l.237-.476c.438.22.833.328 1.19.328.332 0 .593-.073.783-.22a.754.754 0 00.3-.615c0-.33-.23-.61-.648-.845-.388-.213-1.163-.657-1.163-.657-.422-.307-.632-.636-.632-1.177 0-.45.157-.81.47-1.085.315-.278.72-.415 1.22-.415.512 0 .98.136 1.4.41l-.213.476a2.726 2.726 0 00-1.064-.23c-.283 0-.502.068-.654.206a.685.685 0 00-.248.524c0 .328.234.61.666.85.393.215 1.187.67 1.187.67.433.305.648.63.648 1.168zm9.382-5.852c-.535-.014-.95.04-1.297.188-.1.04-.26.04-.274.167.055.053.063.14.11.214.08.134.218.313.346.407.14.11.28.216.427.31.26.16.555.255.81.416.145.094.293.213.44.313.073.05.12.14.214.172v-.02c-.046-.06-.06-.147-.105-.214-.067-.067-.134-.127-.2-.193a3.223 3.223 0 00-.695-.675c-.214-.146-.682-.35-.77-.595l-.013-.014c.146-.013.32-.066.46-.106.227-.06.435-.047.67-.106.106-.027.213-.06.32-.094v-.06c-.12-.12-.21-.283-.334-.395a8.867 8.867 0 00-1.104-.823c-.21-.134-.476-.22-.697-.334-.08-.04-.214-.06-.26-.127-.12-.146-.19-.34-.275-.514a17.69 17.69 0 01-.547-1.163c-.12-.262-.193-.523-.34-.763-.69-1.137-1.437-1.826-2.586-2.5-.247-.14-.543-.2-.856-.274-.167-.008-.334-.02-.5-.027-.11-.047-.216-.174-.31-.235-.38-.24-1.364-.76-1.644-.072-.18.434.267.862.422 1.082.115.153.26.328.34.5.047.116.06.235.107.356.106.294.207.622.347.897.073.14.153.287.247.413.054.073.146.107.167.227-.094.136-.1.334-.154.5-.24.757-.146 1.693.194 2.25.107.166.362.534.703.393.3-.12.234-.5.32-.835.02-.08.007-.133.048-.187v.015c.094.188.188.367.274.555.206.328.566.668.867.895.16.12.287.328.487.402v-.02h-.015c-.043-.058-.1-.086-.154-.133a3.445 3.445 0 01-.35-.4 8.76 8.76 0 01-.747-1.218c-.11-.21-.202-.436-.29-.643-.04-.08-.04-.2-.107-.24-.1.146-.247.273-.32.453-.127.288-.14.642-.188 1.01-.027.007-.014 0-.027.014-.214-.052-.287-.274-.367-.46-.2-.475-.233-1.238-.06-1.785.047-.14.247-.582.167-.716-.042-.127-.174-.2-.247-.303a2.478 2.478 0 01-.24-.427c-.16-.374-.24-.788-.414-1.162-.08-.173-.22-.354-.334-.513-.127-.18-.267-.307-.368-.52-.033-.073-.08-.194-.027-.274.014-.054.042-.075.094-.09.088-.072.335.022.422.062.247.1.455.194.662.334.094.066.195.193.315.226h.14c.214.047.455.014.655.073.355.114.675.28.962.46a5.953 5.953 0 012.085 2.286c.08.154.115.295.188.455.14.33.313.663.455.982.14.315.275.636.476.897.1.14.502.213.682.286.133.06.34.115.46.188.23.14.454.3.67.454.11.076.443.243.463.378z`},child:[]}]})(e)}function Sd(){let e=[{name:`React`,icon:(0,W.jsx)(ud,{})},{name:`JavaScript`,icon:(0,W.jsx)(pd,{})},{name:`TypeScript`,icon:(0,W.jsx)(yd,{})},{name:`HTML5`,icon:(0,W.jsx)(hd,{})},{name:`CSS3`,icon:(0,W.jsx)(vd,{})},{name:`Tailwind CSS`,icon:(0,W.jsx)(Q,{})},{name:`Java`,icon:(0,W.jsx)(md,{})},{name:`Spring Boot`,icon:(0,W.jsx)(bd,{})},{name:`Python`,icon:(0,W.jsx)(dd,{})},{name:`SQL`,icon:(0,W.jsx)(xd,{})},{name:`Git`,icon:(0,W.jsx)(_d,{})}];return(0,W.jsxs)(`section`,{id:`about`,className:`
+        relative
+        overflow-hidden
+        min-h-screen
+        bg-[#080A12]
+        text-white
+        py-24
+        px-6
+      `,children:[(0,W.jsx)(`div`,{className:`
+          absolute
+          top-20
+          left-0
+          w-80
+          h-80
+          bg-purple-600/20
+          blur-[130px]
+          rounded-full
+        `}),(0,W.jsx)(`div`,{className:`
+          absolute
+          bottom-20
+          right-0
+          w-96
+          h-96
+          bg-indigo-600/10
+          blur-[140px]
+          rounded-full
+        `}),(0,W.jsxs)(`div`,{className:`relative max-w-7xl mx-auto`,children:[(0,W.jsxs)(Z.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.6},viewport:{once:!0},className:`text-center mb-16`,children:[(0,W.jsxs)(`h2`,{className:`text-4xl md:text-5xl font-black`,children:[`Sobre`,` `,(0,W.jsx)(`span`,{className:`
+                text-transparent
+                bg-gradient-to-r
+                from-purple-400
+                to-indigo-500
+                bg-clip-text
+              `,children:`Mim`})]}),(0,W.jsx)(`p`,{className:`
+              mt-5
+              max-w-2xl
+              mx-auto
+              text-slate-400
+              text-lg
+            `,children:`Conheça minha trajetória, evolução profissional e a conexão entre experiência de negócio e desenvolvimento de software.`})]}),(0,W.jsxs)(`div`,{className:`grid lg:grid-cols-2 gap-14`,children:[(0,W.jsx)(Z.div,{initial:{opacity:0,x:-40},whileInView:{opacity:1,x:0},transition:{duration:.7},viewport:{once:!0},children:(0,W.jsxs)(`div`,{className:`
+                rounded-3xl
+                bg-white/5
+                border
+                border-white/10
+                backdrop-blur-xl
+                p-8
+                hover:border-purple-400/30
+                transition
+              `,children:[(0,W.jsx)(`h3`,{className:`text-3xl font-black mb-6`,children:`Da experiência de negócio ao desenvolvimento de software`}),(0,W.jsx)(`p`,{className:`text-slate-400 leading-8 mb-5`,children:`Sou Natália Baptista Pastre, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora Front-End focada na criação de aplicações modernas, responsivas e centradas na experiência do usuário.`}),(0,W.jsx)(`p`,{className:`text-slate-400 leading-8 mb-5`,children:`Minha trajetória de mais de 10 anos no ambiente corporativo desenvolveu uma visão analítica, organização de processos, facilidade para entender regras de negócio e transformar necessidades reais em soluções eficientes.`}),(0,W.jsxs)(`p`,{className:`text-slate-400 leading-8`,children:[`Atualmente aplico essa experiência no desenvolvimento de software, utilizando tecnologias como`,` `,(0,W.jsx)(`strong`,{className:`text-white`,children:`React, TypeScript, JavaScript e APIs REST`}),`, além de conhecimentos em`,` `,(0,W.jsx)(`strong`,{className:`text-white`,children:`Java, Python, SQL e Spring Boot`}),` `,`para construir soluções completas.`]})]})}),(0,W.jsx)(Z.div,{initial:{opacity:0,x:40},whileInView:{opacity:1,x:0},transition:{duration:.7},viewport:{once:!0},children:(0,W.jsx)(`div`,{className:`
+                relative
+                border-l
+                border-purple-400/30
+                pl-8
+                space-y-8
+              `,children:[{year:`2024`,title:`Transição para Tecnologia`,description:`Iniciei minha jornada em Análise e Desenvolvimento de Sistemas, unindo minha experiência profissional com o desenvolvimento de software.`},{year:`2025`,title:`Construção de projetos e evolução técnica`,description:`Desenvolvimento de aplicações utilizando React, Java, Python, SQL e aprofundamento em boas práticas de programação.`},{year:`2026`,title:`Desenvolvimento de soluções completas`,description:`Criação de aplicações web, APIs, dashboards e sistemas integrados aplicando conhecimentos de Front-End e Back-End.`},{year:`2026`,title:`Conclusão da graduação ADS`,description:`Finalização do curso de Análise e Desenvolvimento de Sistemas, consolidando minha formação em tecnologia.`}].map((e,t)=>(0,W.jsxs)(`div`,{className:`relative`,children:[(0,W.jsx)(`span`,{className:`
                       absolute
                       -left-[42px]
                       top-6
@@ -433,7 +407,7 @@ Error generating stack: `+e.message+`
                       to-indigo-500
                       shadow-lg
                       shadow-purple-500/40
-                      `}),(0,W.jsxs)(`div`,{className:`
+                    `}),(0,W.jsxs)(`div`,{className:`
                       rounded-2xl
                       bg-white/5
                       border
@@ -443,44 +417,27 @@ Error generating stack: `+e.message+`
                       hover:border-purple-400/40
                       hover:-translate-y-1
                       transition
-                      `,children:[(0,W.jsx)(`span`,{className:`
+                    `,children:[(0,W.jsx)(`span`,{className:`
                         text-purple-400
                         text-sm
                         font-bold
-                        `,children:e.year}),(0,W.jsx)(`h4`,{className:`
-                        text-xl
-                        font-bold
-                        mt-2
-                        `,children:e.title}),(0,W.jsx)(`p`,{className:`
-                        mt-3
-                        text-slate-400
-                        leading-7
-                        `,children:e.description})]})]},t))})})]}),(0,W.jsxs)(`div`,{className:`
-          mt-24
-          `,children:[(0,W.jsxs)(Z.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.6},viewport:{once:!0},className:`
-            text-center
-            mb-12
-            `,children:[(0,W.jsxs)(`h3`,{className:`
-              text-3xl
-              md:text-4xl
-              font-black
-              `,children:[`Tecnologias`,` `,(0,W.jsx)(`span`,{className:`
-                text-transparent
-                bg-gradient-to-r
-                from-purple-400
-                to-indigo-500
-                bg-clip-text
+                      `,children:e.year}),(0,W.jsx)(`h4`,{className:`text-xl font-bold mt-2`,children:e.title}),(0,W.jsx)(`p`,{className:`mt-3 text-slate-400 leading-7`,children:e.description})]})]},t))})})]}),(0,W.jsxs)(`div`,{className:`mt-24`,children:[(0,W.jsxs)(Z.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.6},viewport:{once:!0},className:`text-center mb-12`,children:[(0,W.jsxs)(`h3`,{className:`text-3xl md:text-4xl font-black`,children:[`Tecnologias`,` `,(0,W.jsx)(`span`,{className:`
+                  text-transparent
+                  bg-gradient-to-r
+                  from-purple-400
+                  to-indigo-500
+                  bg-clip-text
                 `,children:`Principais`})]}),(0,W.jsx)(`p`,{className:`
-              mt-4
-              text-slate-400
-              max-w-2xl
-              mx-auto
+                mt-4
+                text-slate-400
+                max-w-2xl
+                mx-auto
               `,children:`Stack utilizada nos estudos, projetos pessoais e desenvolvimento de aplicações web modernas.`})]}),(0,W.jsx)(`div`,{className:`
-            grid
-            grid-cols-2
-            sm:grid-cols-3
-            md:grid-cols-6
-            gap-5
+              grid
+              grid-cols-2
+              sm:grid-cols-3
+              md:grid-cols-6
+              gap-5
             `,children:e.map((e,t)=>(0,W.jsxs)(Z.div,{initial:{opacity:0,y:20},whileInView:{opacity:1,y:0},transition:{duration:.4,delay:t*.05},viewport:{once:!0},whileHover:{scale:1.05,y:-8},className:`
                   group
                   rounded-2xl
@@ -497,16 +454,16 @@ Error generating stack: `+e.message+`
                   hover:border-purple-400/50
                   hover:bg-purple-500/10
                   transition
-                  `,children:[(0,W.jsx)(`div`,{className:`
+                `,children:[(0,W.jsx)(`div`,{className:`
                     text-4xl
                     text-purple-400
                     group-hover:text-indigo-400
                     transition
-                    `,children:e.icon}),(0,W.jsx)(`span`,{className:`
+                  `,children:e.icon}),(0,W.jsx)(`span`,{className:`
                     text-sm
                     text-slate-300
                     text-center
-                    `,children:e.name})]},t))})]})]})]})}function Cd(){let e=[{icon:(0,W.jsx)(le,{size:26}),title:`Desenvolvedora Front-End`,period:`2024 - Atual`,company:`Projetos Freelance`,description:`Desenvolvimento de aplicações web modernas utilizando React, TypeScript, Vite, Tailwind CSS e integração com APIs REST.`},{icon:(0,W.jsx)(E,{size:26}),title:`Projetos Full Stack`,period:`2026`,company:`Projetos acadêmicos e pessoais`,description:`Criação de aplicações com Java, Spring Boot, Python, SQL e desenvolvimento de soluções orientadas a dados.`},{icon:(0,W.jsx)(ce,{size:26}),title:`Experiência Corporativa`,period:`10+ anos`,company:`Área administrativa e processos`,description:`Experiência em análise de dados, automação de processos, organização operacional e melhoria contínua.`}];return(0,W.jsx)(`section`,{id:`experiencia`,className:`
+                  `,children:e.name})]},t))})]})]})]})}function Cd(){let e=[{icon:(0,W.jsx)(le,{size:26}),title:`Desenvolvedora Front-End`,period:`2024 - Atual`,company:`Projetos Freelance`,description:`Desenvolvimento de aplicações web modernas utilizando React, TypeScript, Vite, Tailwind CSS e integração com APIs REST.`},{icon:(0,W.jsx)(E,{size:26}),title:`Projetos Full Stack`,period:`2026`,company:`Projetos acadêmicos e pessoais`,description:`Criação de aplicações com Java, Spring Boot, Python, SQL e desenvolvimento de soluções orientadas a dados.`},{icon:(0,W.jsx)(ce,{size:26}),title:`Experiência Corporativa`,period:`10+ anos`,company:`Área administrativa e processos`,description:`Experiência em análise de dados, automação de processos, organização operacional e melhoria contínua.`}];return(0,W.jsx)(`section`,{id:`experiencia`,className:`
       py-24
       bg-[#06030f]
       text-white
