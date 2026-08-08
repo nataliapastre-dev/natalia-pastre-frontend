@@ -9,7 +9,7 @@
 
 <br/>
 
-![Apresentação do Portfólio](https://i.postimg.cc/8fVTyQ9N/apresentacao-portifolio-natalia-pastre.png)
+<img src="https://i.postimg.cc/8fVTyQ9N/apresentacao-portifolio-natalia-pastre.png" alt="Apresentação do Portfólio" width="100%" />
 
 </div>
 
