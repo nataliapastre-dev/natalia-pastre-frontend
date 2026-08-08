@@ -1,0 +1,47 @@
+# Logs
+
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependências
+
+node_modules/
+
+# Build
+
+dist/
+dist-ssr/
+
+# Arquivos locais
+
+*.local
+
+# Outro portfólio
+
+portfolio-natalia/
+
+# Editor - VS Code
+
+.vscode/*
+!.vscode/extensions.json
+
+# Editor - IntelliJ / JetBrains
+
+.idea/
+
+# Sistema operacional
+
+.DS_Store
+
+# Visual Studio
+
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
