@@ -14,7 +14,9 @@
 </div>
 
 ---
+🌐 **Portfólio:** [nataliapastre-dev.github.io/natalia-pastre-frontend](https://nataliapastre-dev.github.io/natalia-pastre-frontend/)
 
+---
 ## 📌 Sobre o Projeto
 
 Este projeto é meu **portfólio profissional**, desenvolvido com o objetivo de centralizar minha trajetória na área de tecnologia, apresentar projetos práticos e demonstrar minhas habilidades em desenvolvimento de software.
